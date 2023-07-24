@@ -5,11 +5,11 @@
 	"name": "McWarCraft",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"Xuyuhan"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Xuyuha",
+		"sources": "https://github.com/Xuyuha/McWarCraft-fabric"
 	},
 	"license": "MIT License",
 	"icon": "icon.png",
