@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pip",
+    "gog",
+    "pip"
+  ],
+  "key": {
+    "o": {
+      "item": "mcwarcraft:zoom_map_core"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "g":{
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "zoom_map_core",
+    "count":1
+  }
+}

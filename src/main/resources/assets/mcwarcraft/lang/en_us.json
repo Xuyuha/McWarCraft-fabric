@@ -1,0 +1,10 @@
+{
+  "item.mcwarcraft.filled_command_map": "Command Map",
+  "item.mcwarcraft.command_map": "Empty Command Map",
+  "item.mcwarcraft.map_core": "Empty Map Core",
+  "item.mcwarcraft.scan_map_core": "Scan Map Core",
+  "item.mcwarcraft.zoom_map_core": "Zoom Map Core",
+  "item.mcwarcraft.locate_map_core": "Locate Map Core",
+  "item.mcwarcraft.chopper_knife": "Chopper Knife",
+  "itemgroup.mcwarcraft.war_craft": "WarCraft"
+}

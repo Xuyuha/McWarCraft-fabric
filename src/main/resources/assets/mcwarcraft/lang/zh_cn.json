@@ -1,0 +1,10 @@
+{
+  "item.mcwarcraft.filled_command_map": "指挥图",
+  "item.mcwarcraft.command_map": "空的指挥图",
+  "item.mcwarcraft.map_core": "空的地图核心",
+  "item.mcwarcraft.scan_map_core": "地图扫描核心",
+  "item.mcwarcraft.zoom_map_core": "地图放缩核心",
+  "item.mcwarcraft.locate_map_core": "地图定位核心",
+  "item.mcwarcraft.chopper_knife": "斩马刀",
+  "itemgroup.mcwarcraft.war_craft": "全面战争"
+}
