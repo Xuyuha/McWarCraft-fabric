@@ -1,8 +1,8 @@
 package Xuyuhan.mcwarcraft;
 
-//TODO import Xuyuhan.mcwarcraft.registry.ModBlocks;
-import Xuyuhan.mcwarcraft.registry.ModItemGroup;
-import Xuyuhan.mcwarcraft.registry.ModItems;
+import Xuyuhan.mcwarcraft.init.VillagerInit;
+import Xuyuhan.mcwarcraft.blocks.ModBlocks;
+import Xuyuhan.mcwarcraft.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -24,6 +24,7 @@ public class mcwarcraft implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ModItemGroup.registerModItemGroup();
 		ModItems.registerModItems();
-//TODO		ModBlocks.registerModBlocks();
+		VillagerInit.registerTrades();
+		ModBlocks.registerModBlocks();
 	}
 }

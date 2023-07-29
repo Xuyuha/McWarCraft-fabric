@@ -22,7 +22,7 @@
 			"Xuyuhan.mcwarcraft.mcwarcraftDataGenerator"
 		],
 		"client": [
-			"Xuyuhan.mcwarcraft.mcwarcraftClient"
+          "Xuyuhan.mcwarcraft.client.mcwarcraftClient"
 		]
 	},
 	"mixins": [

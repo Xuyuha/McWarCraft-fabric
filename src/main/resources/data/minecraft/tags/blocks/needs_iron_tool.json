@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mcwarcraft:lazurite_block",
+    "mcwarcraft:lazurite_ore",
+    "mcwarcraft:deepslate_lazurite_ore"
+  ]
+}

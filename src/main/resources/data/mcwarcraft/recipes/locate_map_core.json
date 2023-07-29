@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "COC",
+    "ECE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "O": {
+      "item": "mcwarcraft:map_core"
+    }
+  },
+  "result": {
+    "item": "mcwarcraft:locate_map_core",
+    "count": 1
+  }
+}

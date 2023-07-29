@@ -6,5 +6,10 @@
   "item.mcwarcraft.zoom_map_core": "地图放缩核心",
   "item.mcwarcraft.locate_map_core": "地图定位核心",
   "item.mcwarcraft.chopper_knife": "斩马刀",
-  "itemgroup.mcwarcraft.war_craft": "全面战争"
+  "item.mcwarcraft.tower_shield": "塔盾",
+  "item.mcwarcraft.lazurite": "蓝玄石",
+  "itemgroup.mcwarcraft.war_craft": "全面战争",
+  "block.mcwarcraft.lazurite_ore": "蓝玄矿",
+  "block.mcwarcraft.lazurite_block": "蓝玄块",
+  "block.mcwarcraft.deepslate_lazurite_ore": "深板蓝玄矿"
 }

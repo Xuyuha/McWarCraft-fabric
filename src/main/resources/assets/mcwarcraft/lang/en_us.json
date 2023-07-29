@@ -6,5 +6,10 @@
   "item.mcwarcraft.zoom_map_core": "Zoom Map Core",
   "item.mcwarcraft.locate_map_core": "Locate Map Core",
   "item.mcwarcraft.chopper_knife": "Chopper Knife",
-  "itemgroup.mcwarcraft.war_craft": "WarCraft"
+  "item.mcwarcraft.lazurite": "Lazurite_gem",
+  "itemgroup.mcwarcraft.war_craft": "WarCraft",
+  "block.mcwarcraft.tower_shield": "Tower Shield",
+  "block.mcwarcraft.lazurite_ore": "Lazurite Ore",
+  "block.mcwarcraft.lazurite_block": "Lazurite Block",
+  "block.mcwarcraft.deepslate_lazurite_ore": "Deepslate Lazurite Ore"
 }
